@@ -74,6 +74,11 @@ But, 반드시 항상 그런것은 아님. 희소 규제화를 이용하면 여�
 ### 디노이징 자기부호화기
 자기부호화기를 확장한 것으로 학습 시에 확률적인 요소를 도입하여 결과적으로는 제약볼츠만머신(RBM)에 맞먹는 성능을 가지도록 할 수 있음
 
+## Pytorch 구현
+[이론](../../Pytorch/1_MLP/README.md) <br>
+[AutoEncoder 구현](../../Pytorch/1_MLP/1_AutoEncoder.ipynb)
+
+
 ## Reference
 #### 공분산
 2개의 확률변수의 상관정도를 나타내는 값 <br>
