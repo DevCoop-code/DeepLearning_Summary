@@ -106,6 +106,11 @@ BPE Algorithm
 ### 원-핫 인코딩
 원-핫 인코딩을 위해선 Corpus를 모두 Tokenization해 Vocabulary를 만들고 각 Token마다 Index를 정해야 함
 
+<img src="one_hot_encoding.png">
+<br>
+
+- [CODE] one_hot_encoding.py
+
 원-핫 인코딩 말고도 Frequency-based Method와 Dense Embedding Method로 나눠 볼 수 있음
 
 ### Frequency-based Method
