@@ -52,4 +52,7 @@ Fully Connected Layer도 그대로 사용하고 Output Layer만 디자인하기�
 Transfer Learning은 결국 내가 학습하고자 하는 모델의 초기 Weight에 Pre-Trained Model의 Weight를 사용하는 것과 같기 때문에 Initialization 기법으로 바라볼 수도 있음
 <br>
 
-<img src="cnn_transferlearning.png" width="50%">
+<img src="cnn_transferlearning.png">
+<br>
+
+- [CODE] CNNImageClassify_TransferLearning.ipynb
