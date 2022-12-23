@@ -8,7 +8,7 @@ DeepLearning을 학습해오며 배웠던 것들을 정리하는 공간.
 - TensorFlow : Keras Tensorflow로 신경망 구현
 
 ## Deep Learning 전체 프로세스
-<img src="images/dl_simplewholeprocess.png" width="70%">
+<img src="Images/dl_simplewholeprocess.png" width="70%">
 <br>
 
 ## Index
