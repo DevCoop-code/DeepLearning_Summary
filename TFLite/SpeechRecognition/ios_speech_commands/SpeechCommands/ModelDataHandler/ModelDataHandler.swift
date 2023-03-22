@@ -51,7 +51,8 @@ class ModelDataHandler {
   private let suppressionMs = 1500.0
   private let threshold: Float = 0.3
   private let minTimeBetweenSamples = 30.0
-  private let maxInt16AsFloat32: Float32 = 32767.0
+//https://bskyvision.com/entry/python-int8-float32-bool-numpy-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%A0%95%EB%A6%AC
+  private let maxInt16AsFloat32: Float32 = 32767.0   // int16 = 2^16 개의 정수표현. -32768 ~ 32767 까지 표현
 
   /// List of labels from the given labels file.
   private var labels: [String] = []
